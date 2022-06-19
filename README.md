@@ -1,10 +1,20 @@
+<a href="https://www.linkedin.com/in/maxime-javaux-7ba629211">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<br>
+
+<a href="#" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAGICTNT&layout=compact" />
+</a>
+<br>
+
 <h1>Dev FullStack Web / CDA</h1>
     
    <ul>
-    <li><a href="#"> E̶n̶g̶l̶i̶s̶h̶ ̶v̶e̶r̶s̶i̶o̶n̶  (comming soon)</a></li>
+        <li><a href="#"> E̶n̶g̶l̶i̶s̶h̶ ̶v̶e̶r̶s̶i̶o̶n̶  (comming soon)</a></li>
         <li><a href="#bio">Qui je suis</a></li>
         <li><a href="#projet">Quelque projet</a></li>
- </ul>
+    </ul>
 
 <h3 id="bio">Qui je suis:</h3>
 
@@ -21,8 +31,17 @@ Durant ma première formation j'ai pu prendre en mains les langages que l'on peu
 <p>Durant mon temps libre j'ai pu developper quelque code comme:</br>
     <ul>
         <li><a href="#">la pluie numerique matrix (link comming soon)</a></li>
-        <li><a href="#">une page avec l'utilisation de l'api
-                oepnFoodFact (link comming soon)</a></li>
+        <li><a href="#">une page avec l'utilisation de l'api oepnFoodFact (link comming soon)</a></li>
         <li><a href="#">le jeux pong (link comming soon)</a></li>
     </ul>
     
+    
+<a href="#">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAGICTNT">
+</a>
+<br>
+    
+<a href="#">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MAGICTNT&theme=vue">
+</a>
+<br>
