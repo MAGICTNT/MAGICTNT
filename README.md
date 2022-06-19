@@ -36,8 +36,9 @@ Durant ma première formation j'ai pu prendre en mains les langages que l'on peu
     </ul>
     
     
+
 <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAGICTNT">
+    <img src="https://github-profile-trophy.vercel.app/?username=MAGICTNT">
 </a>
 <br>
     
