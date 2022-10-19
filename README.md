@@ -30,9 +30,11 @@ Durant ma première formation j'ai pu prendre en mains les langages que l'on peu
 
 <p>Durant mon temps libre j'ai pu developper quelque code comme:</br>
     <ul>
-        <li><a href="https://magictnt.github.io/Matrix__canvas/">la pluie numerique matrix</a></li>
+        <li><a href="https://magictnt.github.io/Matrix__canvas/" target=_blank>la pluie numerique matrix</a></li>
         <li><a href="#">une page avec l'utilisation de l'api oepnFoodFact (link comming soon)</a></li>
-        <li><a href="https://magictnt.github.io/pong/">le jeux pong </a></li>
+        <li><a href="https://magictnt.github.io/pong/" target=_blank>le jeux pong </a></li>
+        <li><a href="https://magictnt.github.io/piano.github/" target=_blank>piano avec audio</a><li>
+  <li><a href="https://magictnt.github.io/position___souris/" target=_blank> position de la souris en js</a></li>
     </ul>
     
     
