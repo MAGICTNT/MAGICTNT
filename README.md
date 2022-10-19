@@ -39,10 +39,6 @@ Durant ma première formation j'ai pu prendre en mains les langages que l'on peu
     
     
 
-<a href="#">
-    <img src="https://github-profile-trophy.vercel.app/?username=MAGICTNT">
-</a>
-<br>
     
 <a href="#">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MAGICTNT&theme=vue">
