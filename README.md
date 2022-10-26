@@ -3,10 +3,7 @@
 </a>
 <br>
 
-<a href="#" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAGICTNT&layout=compact"/>
-</a>
-<br>
+
 
 <h1>Dev FullStack Web / CDA</h1>
     
@@ -38,8 +35,3 @@ Durant ma première formation j'ai pu prendre en mains les langages que l'on peu
     
     
 
-    
-<a href="#">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MAGICTNT&theme=vue">
-</a>
-<br>
