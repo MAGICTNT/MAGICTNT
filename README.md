@@ -25,7 +25,6 @@ Durant ma première formation j'ai pu prendre en mains les langages que l'on peu
 </p>
 
 
-
 <h3>Quelque projet</h3>
 
 <p>Durant mon temps libre j'ai pu developper quelque code comme:</br>
