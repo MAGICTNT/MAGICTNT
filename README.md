@@ -3,7 +3,7 @@
 </a>
 <br>
 
-
+![tag](https://www.codewars.com/users/MAGICTNT/badges/large)
 
 <h1>Dev FullStack Web / CDA</h1>
     
