@@ -44,6 +44,7 @@ In my free time, I have developed several projects that you can check out here:
 - [The Pong game](https://magictnt.github.io/pong/)
 - [A piano with audio integration](https://magictnt.github.io/piano.github/)
 - [Mouse position tracker in JavaScript](https://magictnt.github.io/position___souris/)
+- [pokeApi web app](https://magictnt.github.io/pokeApi/)
 
 [Back to French version](#version-française)
 
@@ -84,5 +85,6 @@ Durant mon temps libre, j'ai développé plusieurs projets que vous pouvez consu
 - [Le jeu Pong](https://magictnt.github.io/pong/)
 - [Un piano avec audio intégré](https://magictnt.github.io/piano.github/)
 - [Position de la souris en JavaScript](https://magictnt.github.io/position___souris/)
+- [pokeApi web app](https://magictnt.github.io/pokeApi/)
 
 [Retour à la version anglaise](#english-version)
