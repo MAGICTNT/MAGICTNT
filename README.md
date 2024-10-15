@@ -5,11 +5,11 @@
 
 ![tag](https://www.codewars.com/users/MAGICTNT/badges/large)
 
-[🇫🇷 Version française](#version-française) | [🇬🇧 English version](#english-version)
+🇫🇷[Version française](#version-française) | 🇬🇧[English version](#english-version)
 
 ---
 
-## 🇬🇧 English version
+🇬🇧## English version
 
 ### FullStack Web Developer / Application Developer (CDA)
 
@@ -49,7 +49,7 @@ In my free time, I have developed several projects that you can check out here:
 
 ---
 
-## 🇫🇷 Version française
+🇫🇷## Version française
 
 ### Développeur FullStack Web / Concepteur Développeur d'Applications (CDA)
 
